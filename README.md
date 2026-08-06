@@ -6,6 +6,9 @@ I am practicing basic concepts, control structures, and gradually moving towards
 ## Current Programs
 - Printing Numbers ✅
 - Real Number Example ✅
+- - Variables ✅
+- arithematic operation ✅
+- Problem based on input by user and basic area , perimeter and TSA of a cubiod ✅
 
 ## Next Goals
 - If-Else examples (Even/Odd checker)
