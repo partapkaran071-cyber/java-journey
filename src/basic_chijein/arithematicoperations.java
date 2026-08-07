@@ -8,7 +8,5 @@ public class arithematicoperations {
         System.out.println(x-y);
         System.out.println(x*y);
         System.out.println(x/y);
-
-
     }
 }
