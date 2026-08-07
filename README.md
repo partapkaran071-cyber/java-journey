@@ -4,7 +4,7 @@ This repository contains my step-by-step learning journey in Java programming.
 I am practicing basic concepts, control structures, and gradually moving towards OOP.
 
 ## Current Programs
-- Printing Numbers ✅
+- Printing Numbers 
 - Real Number Example ✅
 - - Variables ✅
 - arithematic operation ✅
