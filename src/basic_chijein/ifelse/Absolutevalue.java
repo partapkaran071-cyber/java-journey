@@ -12,6 +12,5 @@ public class Absolutevalue {
            n=-n;
        }
        System.out.println(n);
-
     }
 }
