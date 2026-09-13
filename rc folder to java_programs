@@ -1,0 +1,14 @@
+* [33m38434a2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Resolve README.md merge conflict
+* [33mdb1424c[m WIP: update arithematicoperations and add char datatype
+* [33m98c584f[m WIP: update arithematicoperations
+* [33mb2e1117[m Add char datatype program with ASCII and type casting
+* [33m22398d2[m Update README with new current programs
+*   [33mdb8897e[m Merge branch 'master' of https://github.com/partapkaran071-cyber/java-journey
+[32m|[m[33m\[m  
+[32m|[m * [33m4e800b6[m Create README.md for Java learning journey
+[32m|[m * [33m9181dad[m Delete karanproject.iml
+[32m|[m * [33mb65fd62[m Delete .idea directory
+* [33m|[m [33m74aedb2[m Add basic Java practice programs (arithmetic, variables, problems 01–05)
+[33m|[m[33m/[m  
+* [33m19d2a4e[m Add HelloKaran program in basics folder
+* [33m8a753b5[m Add HelloKaran program in basics folder
