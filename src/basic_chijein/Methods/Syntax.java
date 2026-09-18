@@ -6,10 +6,14 @@ public class Syntax {
     public static void karan(){
         System.out.println(" We are Outside main function");
     }
-    public static void main(String[] args) {
+    public static void main(String[] args) {//main function
         System.out.println("Karan");
         karan();//method call
         System.out.println("Shravan");
-        karan();
+        trishul();
+    }
+    public static void trishul(){
+        System.out.println(" We are insside trishul function");
     }
 }
+
