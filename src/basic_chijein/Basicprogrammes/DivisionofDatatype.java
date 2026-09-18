@@ -1,4 +1,4 @@
-package basic_chijein;
+package basic_chijein.Basicprogrammes;
 
 import java.util.Scanner;
 

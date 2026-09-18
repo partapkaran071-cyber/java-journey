@@ -1,4 +1,4 @@
-package basic_chijein;
+package basic_chijein.Basicprogrammes;
 
 public class Printing_Numbers {
     public static void main(String[] args) {

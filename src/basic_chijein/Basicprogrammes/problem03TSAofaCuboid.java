@@ -1,4 +1,4 @@
-package basic_chijein;
+package basic_chijein.Basicprogrammes;
 
 public class problem03TSAofaCuboid {
     public static void main(String[] args) {
