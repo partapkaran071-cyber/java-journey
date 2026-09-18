@@ -1,4 +1,4 @@
-package basic_chijein.src.basic_programs;
+package basic_chijein.src.Firstprogram;
 
 public class IncrementDecrement {
     public static void main(String[] args) {

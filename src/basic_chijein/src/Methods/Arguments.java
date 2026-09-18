@@ -1,4 +1,4 @@
-package basic_chijein.Methods;
+package basic_chijein.src.Methods;
 
 public class Arguments {
     public static void sum(int a, int b) {

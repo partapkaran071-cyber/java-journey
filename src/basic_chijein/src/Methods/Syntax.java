@@ -1,6 +1,4 @@
-package basic_chijein.Methods;
-
-import java.sql.SQLOutput;
+package basic_chijein.src.Methods;
 
 public class Syntax {
     public static void karan(){

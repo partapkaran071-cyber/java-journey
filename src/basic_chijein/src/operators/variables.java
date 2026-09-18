@@ -1,4 +1,4 @@
-package basic_chijein.Basicprogrammes;
+package basic_chijein.src.operators;
 
 public class variables {
     public static void main(String[] args) {
