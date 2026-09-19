@@ -1,4 +1,4 @@
-package basic_chijein.src.problems;
+package problems;
 
 public class problem02volumeofSphere {
     public static void main(String[] args) {

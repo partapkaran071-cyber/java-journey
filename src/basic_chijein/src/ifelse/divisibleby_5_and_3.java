@@ -1,4 +1,4 @@
-package basic_chijein.src.ifelse;
+package ifelse;
 
 import java.util.Scanner;
 

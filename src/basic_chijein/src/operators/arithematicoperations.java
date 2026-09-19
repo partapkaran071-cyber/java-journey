@@ -1,4 +1,4 @@
-package basic_chijein.src.operators;
+package operators;
 
 public class arithematicoperations {
     public static void main(String[] args) {

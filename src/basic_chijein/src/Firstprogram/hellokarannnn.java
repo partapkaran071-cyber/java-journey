@@ -1,4 +1,4 @@
-package basic_chijein.src.Firstprogram;
+package Firstprogram;
 
 public class hellokarannnn {
     public static void main(String[] args) {

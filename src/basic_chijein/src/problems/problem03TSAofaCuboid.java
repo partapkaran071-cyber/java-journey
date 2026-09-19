@@ -1,4 +1,4 @@
-package basic_chijein.src.problems;
+package problems;
 
 public class problem03TSAofaCuboid {
     public static void main(String[] args) {

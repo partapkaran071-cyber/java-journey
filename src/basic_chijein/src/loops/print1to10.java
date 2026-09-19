@@ -1,4 +1,4 @@
-package basic_chijein.src.ifelse.Loops;
+package loops;
 
 public class print1to10 {
     public static void main(String[] args) {

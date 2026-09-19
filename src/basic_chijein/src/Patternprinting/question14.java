@@ -1,4 +1,4 @@
-package basic_chijein.src.Patternprinting;
+package Patternprinting;
 
 import java.util.Scanner;
 

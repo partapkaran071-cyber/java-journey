@@ -1,4 +1,4 @@
-package basic_chijein.src.ifelse;
+package ifelse;
 
 public class RelationalOperators {
     public static void main(String[] args) {

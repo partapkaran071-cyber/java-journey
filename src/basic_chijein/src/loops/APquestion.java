@@ -1,4 +1,4 @@
-package basic_chijein.src.ifelse.Loops;
+package loops;
 
 public class APquestion {
    public  static void main(String[] args) {

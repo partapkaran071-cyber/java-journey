@@ -1,4 +1,4 @@
-package basic_chijein.src.Methods;
+package Methods;
 
 public class Builtin {
     public static void main(String[] args) {

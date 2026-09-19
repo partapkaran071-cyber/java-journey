@@ -1,4 +1,4 @@
-package basic_chijein.src.Methods;
+package Methods;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package basic_chijein.src.ifelse.Loops;
+package loops;
 
 import java.util.Scanner;
 

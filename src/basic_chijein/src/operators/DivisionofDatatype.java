@@ -1,4 +1,4 @@
-package basic_chijein.src.operators;
+package operators;
 
 import java.util.Scanner;
 
