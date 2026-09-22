@@ -2,15 +2,15 @@ package Arrays;
 
 public class Twosums {
     public static void main(String[] args) {
-                int[] nums = {2, 7, 11, 15};
+                int[] arr = {2, 7, 11, 15};
                 int target = 9;
 
                 // Check all pairs
-                for (int i = 0; i < nums.length; i++) {
-                    for (int j = i + 1; j < nums.length; j++) {
-                        if (nums[i] + nums[j] == target) {
+                for (int i = 0; i < arr.length; i++) {
+                    for (int j = i + 1; j < arr.length; j++) {
+                        if (arr[i] + arr[j] == target) {
                             System.out.println("Indices: " + i + ", " + j);
-                            System.out.println("Numbers: " + nums[i] + ", " + nums[j]);
+                            System.out.println("Numbers: " + arr[i] + ", " + arr[j]);
                         }
                     }
                 }
