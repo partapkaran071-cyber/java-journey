@@ -21,4 +21,3 @@ public class Segragate0sand1s {
 
     }
 }
-
