@@ -17,7 +17,7 @@ public class MergeThreeArrays {
         }
     }
 
-    private static void merge(int[] d, int[] a, int[] b, int[] c) {
+    public static void merge(int[] d, int[] a, int[] b, int[] c) {
 
         int i = 0;
         int j = 0;
